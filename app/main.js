@@ -1,4 +1,4 @@
-
+import CharacterController from "./components/CharacterController.js";
 
 class App {
   constructor() {
